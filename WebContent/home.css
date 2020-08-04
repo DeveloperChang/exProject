@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{background:gray;}
+#header, #footer {text-align:center;}
+#page {background:white;width:980px; box-shadow:6px 6px 6px gold; margin:auto;padding:20px;}
+#center{overflow:hidden; border:1px dotted gray;}
+#menu{width:200px; float:left; padding:10px;}
+#content{width:720px; float:left; padding:0px 10px 30px 20px;; border-left:1px dotted gray;}
+.item {height:30px;} .item a{text-decoration:none; color:gold;padding:5px;} .item a:hover{color:white; background:gold;}
+table {border-collapse:collapse;} td{border:1px solid gold;}
+#btnMenu{margin-top:5px;}
+.title {text-align:center;}
+.center {text-align:center;}
+select, input {height:23px;}
+#tbl {margin:8px}
+#menu .login .logout{width:200px; border:1px dotted gray; padding:5px; margin:10px 0px 20px 0px;}
